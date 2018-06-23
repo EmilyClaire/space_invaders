@@ -1,0 +1,16 @@
+*.log
+*.lpr
+*.wpc
+*.xml
+*.wdf
+*.jou
+*.str
+*.backup.jou
+*backup.str
+vivado.jou
+space_invaders.sim
+space_invaders.runs
+space_invaders.cache
+space_invaders.hw
+space_invaders.ip_user_files
+desktop.ini
